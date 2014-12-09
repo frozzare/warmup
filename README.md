@@ -5,7 +5,7 @@ Simple HTTP cache warming for multiple URLs with headers support.
 ## Installation
 
 ```
-$ go get -u github.com/frozzare/go-warmup
+$ go get -u github.com/frozzare/warmup
 ```
 
 ## The URLs JSON file
