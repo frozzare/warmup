@@ -1,4 +1,4 @@
-package main
+package mainoj 
 
 import (
 	"encoding/json"
@@ -47,7 +47,7 @@ func main() {
 
 	for true {
 		run(data)
-		fmt.Println(fmt.Sprintf("wating %ds...", *delay/1000))
+		fmt.Println(fmt.Sprintf("waiting %ds...", *delay/1000))
 
 		if *timeFile {
 			t := time.Now().UTC()
