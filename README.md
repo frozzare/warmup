@@ -10,7 +10,7 @@ $ go get -u github.com/frozzare/go-warmup
 
 ## The URLs JSON file
 
-A simple JSON file with the url as key in the root object and a object with headers, for example Cookie header. If you headers needed just leave a empty object.
+A simple JSON file with the url as key in the root object and a object with headers, for example Cookie header. If you don't needed headers just leave a empty object.
 
 ```javascript
 {
