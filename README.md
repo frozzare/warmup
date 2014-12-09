@@ -14,9 +14,9 @@ A simple JSON file with the url as key in the root object and a object with head
 
 ```javascript
 {
-		"http://example": {
-			"Cookie": "cookie body"
-		}
+	"http://example.com": {
+		"Cookie": "cookie body"
+	}
 }
 ```
 
