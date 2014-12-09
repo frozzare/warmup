@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	delay    = flag.Int("delay", 29000, "Delay (in ms) between request lists")
+	delay    = flag.Int("delay", 29000, "Delay (in ms) between items in the request list")
 	filename = flag.String("filename", "urls.json", "List of URLs")
 	timeFile = flag.Bool("time-file", true, "If you want warmup.txt beeing created with last run time")
 )

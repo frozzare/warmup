@@ -23,7 +23,7 @@ A simple JSON file with the url as key in the root object and a object with head
 ## Usage of warmup
 
 ```
-  -delay=29000: Delay (in ms) between request lists
+  -delay=29000: Delay (in ms) between items in the request list
   -filename=urls.json: List of URLs
   -timeFile=true: If you want warmup.txt beeing created with last run time
 ```
