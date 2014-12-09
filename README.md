@@ -1,4 +1,4 @@
-# go-warmup
+# warmup
 
 Simple HTTP cache warming for multiple URLs with headers support.
 
