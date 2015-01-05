@@ -29,5 +29,4 @@ A simple JSON file with the url as key in the root object and a object with head
 ```
 # License
 
-Copyright (c) 2014 Fredrik Forsmo
-Licensed under the MIT license.
+MIT © [Fredrik Forsmo](https://github.com/frozzare)
