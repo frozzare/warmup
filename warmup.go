@@ -1,4 +1,4 @@
-package mainoj 
+package main
 
 import (
 	"encoding/json"
